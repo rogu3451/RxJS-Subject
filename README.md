@@ -6,7 +6,10 @@
 - blog: [https://zacznijprogramowac.net/](https://zacznijprogramowac.net/)
 - kanał YT: [https://www.youtube.com/ZacznijProgramowac](https://www.youtube.com/ZacznijProgramowac)
 
-# Otwórz ten projekt przez StackBlitz:
+# Kod startowy
+https://stackblitz.com/github/ZacznijProgramowac/rxjs-angular-example
+
+# Otwórz ukończony projekt przez StackBlitz:
 https://stackblitz.com/github/ZacznijProgramowac/rxjs-angular-example/tree/Finished
 
 ## Wymagania projektu
